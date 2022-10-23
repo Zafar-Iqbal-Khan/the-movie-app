@@ -8,6 +8,6 @@
   <img src="https://user-images.githubusercontent.com/96375955/189531643-d3600a14-5e79-4e85-98f0-d7e168267555.png" width="300">
   </p>
  
-### [Instagram](https://instagram.com/khan.devv)
+
 
 
